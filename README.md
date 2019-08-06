@@ -1,4 +1,4 @@
-##[Proxy-test](https://github.com/hi-yu/proxy-test)
+<h1><a href="https://github.com/hi-yu/proxy-test">Proxy-test</a></h1>
 <h2>项目简介</h2>
 <p>使用python3检测你的代理ip是否有效</p>
 <h2>使用方法</h2>
