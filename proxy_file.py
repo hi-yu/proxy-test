@@ -6,7 +6,7 @@ import urllib.request
 inputurl = input('输入用代理访问的网站(注意要加上协议):')
 url= '%s'%inputurl
 time = int(input('访问时间限制（秒）：'))
-print('请在test_proxy.txt中添加代理，每行一个，添加好请按回车')
+print('请在proxy_test.txt中添加代理，每行一个，添加好请按回车')
 input()
 with open("proxy_test.txt","r") as f:
     iplist = f.read().split(sep='\n')
